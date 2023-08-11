@@ -17,7 +17,7 @@ const About = () => {
     <>
       <h2 className='head-text'>
         I know that 
-        <span> Good Design</span>
+        <span> Good Development</span>
         <br />
         Means 
         <span> Good Business</span>
